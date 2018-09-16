@@ -1,0 +1,38 @@
+{
+  "status": "0",
+  "msg" : "",
+  "result" : [
+    {
+      "articleTitle" : "100001",
+      "articleImg" : "./src/assets/img/article01.jpg",
+      "articleewrite" : 0,
+      "articleAuthor" : "Leother",
+      "articleTime" : "2018-08-27",
+      "articleSort": "学习"
+    },
+    {
+      "articleTitle" : "100002",
+      "articleImg" : "./src/assets/img/article02.jpg",
+      "articleewrite" : 0,
+      "articleAuthor" : "Leother",
+      "articleTime" : "2018-08-27",
+      "articleSort": "学习"
+    },
+    {
+      "articleTitle" : "100003",
+      "articleImg" : "./src/assets/img/article03.jpg",
+      "articleewrite" : 0,
+      "articleAuthor" : "Leother",
+      "articleTime" : "2018-08-27",
+      "articleSort": "学习"
+    },
+    {
+      "articleTitle" : "100004",
+      "articleImg" : "./src/assets/img/article04.jpg",
+      "articleewrite" : 0,
+      "articleAuthor" : "Leother",
+      "articleTime" : "2018-08-27",
+      "articleSort": "学习"
+    }
+  ]
+}
